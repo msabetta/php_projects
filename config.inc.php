@@ -33,7 +33,7 @@ $data->set_password_expiration_global($time_expiration);
  * This is needed for cookie based authentication to encrypt password in
  * cookie
  */
-$cfg['blowfish_secret'] = 'secret_123'; /* YOU MUST FILL IN THIS FOR COOKIE AUTH! */
+$cfg['blowfish_secret'] = 'V)R>'eJdS4JUG:`TF7v3dhA;RR8,R[LS'; /* YOU MUST FILL IN THIS FOR COOKIE AUTH! */
 
 /**
  * Server(s) configuration
